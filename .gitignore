@@ -1,0 +1,8 @@
+/aclImdb/
+*/.ipynb_checkpoints/
+/datasets/general/btctweets.csv
+/datasets/#BTC_2019-05-28_2019-06-28__tweets_data.csv
+/datasets/BTC_from_file_2019-05-25_2019-06-25__tweets_data.csv
+/datasets/BTC_2019-05-25_2019-06-25__tweets_data_from_file_english_no_duplicates.csv
+/datasets/BTC_2019-05-25_2019-06-25__tweets_data_from_file.csv
+/models/model_checkpoints/bert_model.data-00000-of-00001
