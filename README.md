@@ -3,11 +3,14 @@
 This is the official repository for the social media affect Bitcoin price project.
 
 ## installation
+```
 git clone https://github.com/aviv-israel/bitcoins_tweets_sentiment_analysis.git
 cd bitcoins_tweets_sentiment_analysis
 pip install -r requirements.txt
+```
 
 ## structure
+```
 project
 │   README.md  
 │   requirements.txt
@@ -36,11 +39,4 @@ project
 └───datasets
 │
 │
-
-
-
-
-for obtaining data:
-- obtaining_crypto_prices_data_from_yahoo.ipynb
- 
-## 
+ ```
